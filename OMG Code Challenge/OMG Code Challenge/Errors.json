@@ -1,0 +1,26 @@
+﻿[
+  {
+    "Message_ID": "ERR_001",
+    "Message_Description_EN": "Invalid model",
+    "Message_Description_AR": " خطأ بالنموذج",
+    "Reason_Code": "Invalid model"
+  },
+  {
+    "Message_ID": "ERR_002",
+    "Message_Description_EN": "Unauthorized",
+    "Message_Description_AR": "غير مصرح",
+    "Reason_Code": "Unauthorized"
+  },
+  {
+    "Message_ID": "ERR_003",
+    "Message_Description_EN": "Invalid token",
+    "Message_Description_AR": "رمز غير صالح",
+    "Reason_Code": "Invalid Token"
+  },
+  {
+    "Message_ID": "ERR_004",
+    "Message_Description_EN": "Invalid username or password",
+    "Message_Description_AR": "خطأ في اسم المستخدم أو كلمة مرور",
+    "Reason_Code": "Invalid username or password"
+  }
+]
